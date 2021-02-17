@@ -1,0 +1,36 @@
+body {
+    background-color: darkgrey;
+}
+
+.div-container {
+    margin: auto;
+    width: 88%;
+    background-color: beige;
+}
+
+.div-main {
+    padding-left: 15;
+    padding-right: 15;
+    padding-bottom: 15;    
+}
+
+.div-nav {
+    font-size: larger;
+    background-color: darkgrey;
+    padding-bottom: 15;
+    padding-top: 15;
+}
+
+.div-footer {
+    font-size: larger;
+    background-color: darkgrey;
+    padding-top: 25;
+}
+
+img {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
+}
