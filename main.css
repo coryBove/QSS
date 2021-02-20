@@ -19,6 +19,7 @@ body {
     background-color: darkgrey;
     padding-bottom: 15;
     padding-top: 15;
+    display: flex;
 }
 
 .div-footer {
@@ -35,3 +36,16 @@ img {
     max-width: 100%;
     width: 88%;
 }
+
+.button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin: 3 3;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    width: 10%;
+  }
